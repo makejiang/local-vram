@@ -1,0 +1,25 @@
+{
+  "author": "Github",
+  "author_icon": "https://static.marvis.qq.com/wupload/skill-author-icons/1778639349473_GitHub.png",
+  "description": "placeholder",
+  "detail_describe": "修改Intel集成显卡的最高容量\n查询当前显卡最高容量",
+  "display_description": "调整集成显卡共享显存最大限制(仅限英特尔AIPC平台)",
+  "display_name": "集成显卡显存调整",
+  "icon": "https://static.marvis.qq.com/wupload/skill-icons/1781513639063_334_%E6%98%BE%E5%AD%98%E8%B0%83%E8%8A%82.png?imageMogr2/thumbnail/224x/format/webp",
+  "icon_url": "https://static.marvis.qq.com/wupload/skill-icons/1781513639063_334_%E6%98%BE%E5%AD%98%E8%B0%83%E8%8A%82.png?imageMogr2/thumbnail/224x/format/webp",
+  "id": 381,
+  "is_downloaded": false,
+  "name": "local-vram",
+  "scope": [
+    "main"
+  ],
+  "show_description": "调整集成显卡共享显存最大限制(仅限英特尔AIPC平台)",
+  "show_name": "集成显卡显存调整",
+  "type": "英特尔用户专区",
+  "use_cases": [
+    "设置GPU显存为87%",
+    "调整VRAM限制到最大",
+    "当前GPU共享内存限制是多少？"
+  ],
+  "version": "1.1.0"
+}
